@@ -1,0 +1,11 @@
+# Pinned versions (Python 3.11).
+# Other versions may change the sklearn- and LightGBM-based results in the last digits or more.
+numpy==2.4.3
+pandas==3.0.2
+scipy==1.17.1
+scikit-learn==1.8.0
+lightgbm==4.6.0
+joblib==1.5.3
+tqdm==4.67.3
+ucimlrepo==0.0.7
+folktables==0.0.12

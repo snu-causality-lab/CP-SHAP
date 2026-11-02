@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+outputs/
+results/
+data/downloads/
+# files the experiment scripts write next to their code when run directly instead of through reproduce/
+experiments/**/*.csv
+experiments/**/*.npz

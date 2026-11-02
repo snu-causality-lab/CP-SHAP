@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Code for: Decomposing Conformal Uncertainty: Calibration- and Instance-Driven Feature Attribution"
+license: MIT
+authors:
+  - family-names: Cho
+    given-names: Sangyeon
+  - family-names: Cho
+    given-names: Minyoung
+  - family-names: Kim
+    given-names: Jungsoo
+  - family-names: Oh
+    given-names: Sujeong
+  - family-names: Lee
+    given-names: Sanghack
+preferred-citation:
+  type: conference-paper
+  title: "Decomposing Conformal Uncertainty: Calibration- and Instance-Driven Feature Attribution"
+  authors:
+    - family-names: Cho
+      given-names: Sangyeon
+    - family-names: Cho
+      given-names: Minyoung
+    - family-names: Kim
+      given-names: Jungsoo
+    - family-names: Oh
+      given-names: Sujeong
+    - family-names: Lee
+      given-names: Sanghack
+  collection-title: "Advances in Neural Information Processing Systems"
+  year: 2026

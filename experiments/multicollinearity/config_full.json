@@ -1,0 +1,16 @@
+{
+  "name": "multicollinearity_paper",
+  "d": 15,
+  "n_samples": 4000,
+  "n_calib": 500,
+  "n_test": 10,
+  "data_seed": 42,
+  "alpha": 0.1,
+  "backend": "sklearn_gbrt",
+  "budget": 256,
+  "sampler_repeats": 5,
+  "correlations": [0.0, 0.2, 0.4, 0.6, 0.8, 0.95],
+  "cancellation_thresholds": [0.05, 0.1, 0.2],
+  "absolute_zero_floor": 1e-9,
+  "relative_zero_threshold": 1e-6
+}
