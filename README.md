@@ -4,12 +4,6 @@ Official implementation of our NeurIPS 2026 paper.
 
 [Paper (OpenReview)](https://openreview.net/forum?id=lZavBaxJ68)
 
-Sangyeon Cho<sup>∗</sup> · Minyoung Cho<sup>∗</sup> · Jungsoo Kim<sup>∗</sup> · Sujeong Oh · Sanghack Lee
-
-*Graduate School of Data Science, Seoul National University*
-
-<sub>∗ Equal contribution.</sub>
-
 CP-SHAP decomposes feature contributions to conformal prediction uncertainty into
 calibration-driven and instance-driven components using Shapley values.
 
